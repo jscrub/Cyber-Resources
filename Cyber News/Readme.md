@@ -10,7 +10,7 @@
 - [Wired](https://www.wired.com/tag/cybersecurity/)
 - [The Cyber Express](https://thecyberexpress.com)
 - [Security Affairs](https://securityaffairs.com)
-- [Hak5(youtube news](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
+- [Hak5(youtube news clips)](https://www.youtube.com/channel/UC3s0BtrBJpwNDaflRSoiieQ)
 - [Hack Read](https://hackread.com)
 - [IT security guru](https://itsecurityguru.com)
 - [Cybercrime Magazine](https://cybersecurityventures.com/cybercrime-news/)
