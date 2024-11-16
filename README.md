@@ -5,3 +5,9 @@ I currently use Github as a repo for resources across the interwebs due to ease 
 
 
 I try to avoid references to Tik Tok content creators, but will add them with a *Caution* tab
+
+
+About me:
+
+If you want to know more, please see my LinkedIn here:
+https://www.linkedin.com/in/jason-c-scribner/
